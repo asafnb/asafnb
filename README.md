@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @asafnb
-- 👀 I’m interested in reaserch and development in transportation field
-- 🌱 I’m currently working at Ayalon Highways as transpotation planner and data lead at Tech division
-- 💞️ I’m happy to collaborate and share our work and code here
-- 📫 How to reach me: asafnb@gmail.com
+👋 Hello, I'm Asaf (@asafnb)!
+
+🔍 I specialize in research and development within the transportation sector. My work revolves around finding innovative solutions to enhance urban mobility and infrastructure.
+
+🌱 Currently, I serve as a Transportation Planner and the Data Lead at the Tech and Innovation Division of Ayalon Highways. My role involves leveraging data to optimize transportation systems and implement cutting-edge technologies.
+
+📫 Interested in collaboration or have a query? Reach out to me at asafnb@gmail.com
+
+Let's drive the future of transportation together!
+
 
 <!---
 asafnb/asafnb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
